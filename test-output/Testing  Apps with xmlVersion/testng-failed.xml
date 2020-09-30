@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing  Apps with xmlVersion]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="PracticesBYTestNG.ThirdTest">
+        <methods>
+          <include name="tesgdfgting"/>
+          <include name="launfghgjchBrowser22"/>
+          <include name="stafgfdgrt"/>
+          <include name="rctjhghjest"/>
+          <include name="Dehggfhe"/>
+        </methods>
+      </class> <!-- PracticesBYTestNG.ThirdTest -->
+      <class name="PracticesBYTestNG.TestNGKeyWoards">
+        <methods>
+          <include name="start22"/>
+          <include name="start"/>
+          <include name="login"/>
+          <include name="login2222"/>
+          <include name="launchBrowser22"/>
+          <include name="method222"/>
+          <include name="Deve"/>
+          <include name="testing"/>
+          <include name="method"/>
+          <include name="rctest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- PracticesBYTestNG.TestNGKeyWoards -->
+      <class name="PracticesBYTestNG.SecondTesting">
+        <methods>
+          <include name="launcdfdsfhBrowser22"/>
+          <include name="rctdfdfest"/>
+          <include name="testidsfdng"/>
+          <include name="start"/>
+          <include name="Dedfdsfve"/>
+        </methods>
+      </class> <!-- PracticesBYTestNG.SecondTesting -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Testing  Apps with xmlVersion] -->
